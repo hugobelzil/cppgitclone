@@ -6,7 +6,7 @@
 #include <cctype>
 #include <functional>
 
-//COMP322 Winter 2023 ; Assignment 3 Hugo Belzil (ID 261035898)
+//COMP322 Winter 2023 ; Assignment 3 Hugo Belzil
 
 //Node structure implemented for the Linked List
 struct Node {
