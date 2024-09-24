@@ -1,6 +1,6 @@
 # cppgitclone (EnhancedGIT)
 A file-versioning system in C++ made as an assignment of the course COMP322 (Introduction to C++) at McGill University.
-This code was written in March 2023, and has not been modified since.
+This code was written in March 2023, and has not been modified since. I used CLion as my IDE.
 Thanks to Dr. Chad Zammar for allowing me to share my code.
 
 ### Overview:
