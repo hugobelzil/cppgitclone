@@ -26,3 +26,5 @@ This project is a C++ implementation that focuses on version control using objec
 - All functionality from the previous version has been refactored into object-oriented design.
 - The main function has been adapted to test and demonstrate both `Git322` and `EnhancedGit322` features.
 
+### Video demonstration available soon!
+
